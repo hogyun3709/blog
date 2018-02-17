@@ -26,12 +26,12 @@ Lets suppose the client wants the data of a **post** with the **writer's name** 
 
 > **RESTful API**
 
-![alt text](./data-fetch-rest.png "rest api image")
+![alt text](data-fetch-rest.png)
 
 The picture shows the Rest api retrieves every information of client's request with multiple endpoints. When client throws GET method with resources, the server returns followed datas.
 
 > **GraphQL**
 
-![alt text](./data-fetch-graphql.png "graphql image")
+![alt text](data-fetch-graphql.png)
 
 Since graph"QL" is Query Language, client throws specific query to server, clients receive matched datas from server. With this predefined query structure, graphql prevents over and underfetching.
