@@ -12,7 +12,7 @@
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -22,7 +22,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -43,13 +43,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7676c00b6f663a9645cc53e7ac1381ea",
+        "contentDigest": "230f006e8eb440ecce48c0b4524c7d7f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -59,7 +59,7 @@
       "nodeAPIs": [
         "createLayouts"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -80,13 +80,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7845e93aeb103a12600313a2ffe8d7e8",
+        "contentDigest": "e02eba19d54d7cdf5d954a4d121aa175",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -97,7 +97,7 @@
         "sourceNodes",
         "onCreatePage"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -114,13 +114,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7d49a49115aa6c45030b9c59afb9a812",
+        "contentDigest": "23916515ed64dcca9894d28363987300",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -130,7 +130,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -147,13 +147,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "67cc44484ce9baec36bbd765cf327e1e",
+        "contentDigest": "f1cc2b6d749dedbae533d86a72692a95",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -163,7 +163,7 @@
       "nodeAPIs": [
         "onCreatePage"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -180,13 +180,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "deb29d47f599cdd8cc11c01fab508bec",
+        "contentDigest": "2b931cff90b4eb67dd777185f9a982ec",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -197,7 +197,7 @@
         "onCreatePage",
         "onCreateLayout"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -214,13 +214,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "70e0ec216dd93ac478e0bfa534adec59",
+        "contentDigest": "de2c656602baced83c125a95ccc006f0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.8",
@@ -228,7 +228,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -268,25 +268,25 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4a10d6fb7cac4abd454f9fa320954f45",
+        "contentDigest": "b86dc3a265dd1f01ebeeb84c9a3660c6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-source-filesystem",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "1.5.11",
       "pluginOptions": {
         "plugins": [],
         "name": "authors",
-        "path": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors"
+        "path": "/Users/hogyunkim/Desktop/blog/content/sample-authors"
       },
       "nodeAPIs": [
         "sourceNodes"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -359,13 +359,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b21c183f91ae8f722367fa7d95e79303",
+        "contentDigest": "ee5b451ff1a7b9be7e0dac11b62b8bc8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-json": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-transformer-json",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-transformer-json",
       "id": "Plugin gatsby-transformer-json",
       "name": "gatsby-transformer-json",
       "version": "1.0.14",
@@ -375,7 +375,7 @@
       "nodeAPIs": [
         "onCreateNode"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-transformer-json",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-transformer-json",
       "packageJson": {
         "name": "gatsby-transformer-json",
         "description": "Gatsby transformer plugin for JSON files",
@@ -417,20 +417,20 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "067be8342b6c89dc01bd2ae0dc70465b",
+        "contentDigest": "8f5de27bc5a62ee21ef369d4c3636f89",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.26",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-images",
+            "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-images",
             "id": "Plugin gatsby-remark-images",
             "name": "gatsby-remark-images",
             "version": "1.5.36",
@@ -440,13 +440,13 @@
               "wrapperStyle": "",
               "backgroundColor": "white",
               "linkImagesToOriginal": true,
-              "pathPrefix": ""
+              "pathPrefix": "/blog"
             },
             "nodeAPIs": [],
-            "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-images"
+            "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-images"
           },
           {
-            "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-responsive-iframe",
+            "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-responsive-iframe",
             "id": "Plugin gatsby-remark-responsive-iframe",
             "name": "gatsby-remark-responsive-iframe",
             "version": "1.4.16",
@@ -455,10 +455,10 @@
               "wrapperStyle": ""
             },
             "nodeAPIs": [],
-            "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-responsive-iframe"
+            "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-responsive-iframe"
           },
           {
-            "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-prismjs",
+            "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-prismjs",
             "id": "Plugin gatsby-remark-prismjs",
             "name": "gatsby-remark-prismjs",
             "version": "1.2.11",
@@ -466,10 +466,10 @@
               "plugins": []
             },
             "nodeAPIs": [],
-            "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-prismjs"
+            "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-prismjs"
           },
           {
-            "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-copy-linked-files",
+            "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-copy-linked-files",
             "id": "Plugin gatsby-remark-copy-linked-files",
             "name": "gatsby-remark-copy-linked-files",
             "version": "1.5.25",
@@ -484,10 +484,10 @@
               ]
             },
             "nodeAPIs": [],
-            "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-copy-linked-files"
+            "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-copy-linked-files"
           },
           {
-            "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-autolink-headers",
+            "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-autolink-headers",
             "id": "Plugin gatsby-remark-autolink-headers",
             "name": "gatsby-remark-autolink-headers",
             "version": "1.4.11",
@@ -495,7 +495,7 @@
               "plugins": []
             },
             "nodeAPIs": [],
-            "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-autolink-headers"
+            "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-autolink-headers"
           }
         ]
       },
@@ -503,7 +503,7 @@
         "onCreateNode",
         "setFieldsOnGraphQLNodeType"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -610,13 +610,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3b107e7f63f951e2bf88e2dbf7272042",
+        "contentDigest": "b672cef3c3c8100760923409d4881787",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-images": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-images",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-images",
       "id": "Plugin gatsby-remark-images",
       "name": "gatsby-remark-images",
       "version": "1.5.36",
@@ -626,10 +626,10 @@
         "wrapperStyle": "",
         "backgroundColor": "white",
         "linkImagesToOriginal": true,
-        "pathPrefix": ""
+        "pathPrefix": "/blog"
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-images",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-images",
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
@@ -695,13 +695,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c3cf10bd98ee4c8ef36ed2b7f592f990",
+        "contentDigest": "2af586a278163b05c13f62a37c756845",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-responsive-iframe": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-responsive-iframe",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-responsive-iframe",
       "id": "Plugin gatsby-remark-responsive-iframe",
       "name": "gatsby-remark-responsive-iframe",
       "version": "1.4.16",
@@ -710,7 +710,7 @@
         "wrapperStyle": ""
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-responsive-iframe",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-responsive-iframe",
       "packageJson": {
         "name": "gatsby-remark-responsive-iframe",
         "description": "Make iframes in Markdown processed by Remark responsive",
@@ -773,13 +773,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "01e8806cecdd2082c227aecaee389e83",
+        "contentDigest": "661311b3cedf41c23f1bebb3459c984b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-prismjs": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-prismjs",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-prismjs",
       "id": "Plugin gatsby-remark-prismjs",
       "name": "gatsby-remark-prismjs",
       "version": "1.2.11",
@@ -787,7 +787,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-prismjs",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-prismjs",
       "packageJson": {
         "name": "gatsby-remark-prismjs",
         "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
@@ -843,13 +843,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8fa5ed0891bd96347b4fe21097d81c5f",
+        "contentDigest": "a4acd0da7cbaaec25ba993e5617eecc6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-copy-linked-files": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-copy-linked-files",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-copy-linked-files",
       "id": "Plugin gatsby-remark-copy-linked-files",
       "name": "gatsby-remark-copy-linked-files",
       "version": "1.5.25",
@@ -864,7 +864,7 @@
         ]
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-copy-linked-files",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-copy-linked-files",
       "packageJson": {
         "name": "gatsby-remark-copy-linked-files",
         "description": "Find files which are linked to from markdown and copy them to the public directory",
@@ -932,13 +932,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "01df6956984e7224f4d360ce87c4d202",
+        "contentDigest": "4253dbfe0eda4ac33e7a080231e8f031",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-remark-autolink-headers": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-autolink-headers",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-autolink-headers",
       "id": "Plugin gatsby-remark-autolink-headers",
       "name": "gatsby-remark-autolink-headers",
       "version": "1.4.11",
@@ -946,7 +946,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-autolink-headers",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-autolink-headers",
       "packageJson": {
         "name": "gatsby-remark-autolink-headers",
         "description": "Gatsby plugin to autolink headers in markdown processed by Remark",
@@ -997,13 +997,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "92bfbc5d9afbb52d3cfd5eda311261c0",
+        "contentDigest": "ee5005d7d1672c7de042abf1c80f38c7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-google-analytics": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-google-analytics",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-google-analytics",
       "id": "Plugin gatsby-plugin-google-analytics",
       "name": "gatsby-plugin-google-analytics",
       "version": "1.0.15",
@@ -1012,7 +1012,7 @@
         "trackingId": "UA-111982167-1"
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-google-analytics",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -1051,13 +1051,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "89a4be4e3a4c20fe74b02e1c6277aae8",
+        "contentDigest": "16015feec16ee1523eb00ed86fc68a11",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-nprogress": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-nprogress",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-nprogress",
       "id": "Plugin gatsby-plugin-nprogress",
       "name": "gatsby-plugin-nprogress",
       "version": "1.0.9",
@@ -1066,7 +1066,7 @@
         "color": "#c62828"
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-nprogress",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-nprogress",
       "packageJson": {
         "name": "gatsby-plugin-nprogress",
         "description": "Shows page loading indicator when loading page resources is delayed",
@@ -1107,13 +1107,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b4a3db96e3a7427eb30c0066c4ec51ac",
+        "contentDigest": "b44825e9eb44a9d2abd22efa6ba2ac64",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sharp": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-sharp",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-sharp",
       "id": "Plugin gatsby-plugin-sharp",
       "name": "gatsby-plugin-sharp",
       "version": "1.6.24",
@@ -1121,7 +1121,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -1204,13 +1204,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "030b5386f1a9744e77be6769228a6e6f",
+        "contentDigest": "a95a42d4009e6afbce952840bd99786c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-catch-links": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-catch-links",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-catch-links",
       "id": "Plugin gatsby-plugin-catch-links",
       "name": "gatsby-plugin-catch-links",
       "version": "1.0.14",
@@ -1218,7 +1218,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-catch-links",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-catch-links",
       "packageJson": {
         "name": "gatsby-plugin-catch-links",
         "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
@@ -1256,13 +1256,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9f65c8a86e33cfa9f272b2ff52e53452",
+        "contentDigest": "877c6e7b20c7535283959cca3122f9e3",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-twitter": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-twitter",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-twitter",
       "id": "Plugin gatsby-plugin-twitter",
       "name": "gatsby-plugin-twitter",
       "version": "1.0.14",
@@ -1270,7 +1270,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-twitter",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-twitter",
       "packageJson": {
         "name": "gatsby-plugin-twitter",
         "description": "Stub description for gatsby-plugin-twitter",
@@ -1307,13 +1307,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "eb2f1980a3158f60718c091918b8112c",
+        "contentDigest": "93a284edc25f548b7b9ef24bb7ff133e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sitemap": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-sitemap",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-sitemap",
       "id": "Plugin gatsby-plugin-sitemap",
       "name": "gatsby-plugin-sitemap",
       "version": "1.2.9",
@@ -1323,7 +1323,7 @@
       "nodeAPIs": [
         "onPostBuild"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-sitemap",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-sitemap",
       "packageJson": {
         "name": "gatsby-plugin-sitemap",
         "description": "Stub description for gatsby-plugin-sitemap",
@@ -1363,13 +1363,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "71276c2655f0e29881fc4b0e173bfb46",
+        "contentDigest": "1fc58ab74d1ae3a89cf86aa86c9dc037",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-manifest": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-manifest",
       "id": "Plugin gatsby-plugin-manifest",
       "name": "gatsby-plugin-manifest",
       "version": "1.0.12",
@@ -1398,7 +1398,7 @@
       "nodeAPIs": [
         "onPostBuild"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
@@ -1443,13 +1443,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "993f7fc353e3f08049399f4b4c7b41df",
+        "contentDigest": "f5ee421b486ffb662318f079ce1b1a07",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-offline": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-offline",
       "id": "Plugin gatsby-plugin-offline",
       "name": "gatsby-plugin-offline",
       "version": "1.0.12",
@@ -1460,7 +1460,7 @@
         "createPages",
         "onPostBuild"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -1505,13 +1505,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8f5dbddaeac659e0b1f48938837f6d3a",
+        "contentDigest": "2d2a926fff0da37cdf607192dc2f8bbb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-feed": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-feed",
+      "resolve": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-feed",
       "id": "Plugin gatsby-plugin-feed",
       "name": "gatsby-plugin-feed",
       "version": "1.3.15",
@@ -1528,7 +1528,7 @@
       "nodeAPIs": [
         "onPostBuild"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-feed",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-feed",
       "packageJson": {
         "name": "gatsby-plugin-feed",
         "description": "Creates an RSS feed for your Gatsby site.",
@@ -1581,13 +1581,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e52b884275fe08c196b2eb53adccab72",
+        "contentDigest": "6a8816926d6fa6bed7b7e7dca8828c07",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog",
+      "resolve": "/Users/hogyunkim/Desktop/blog",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "bb620dc5a2143e5814b5a0e0830b0969",
@@ -1599,7 +1599,7 @@
         "createPages",
         "modifyWebpackConfig"
       ],
-      "pluginFilepath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog",
+      "pluginFilepath": "/Users/hogyunkim/Desktop/blog",
       "packageJson": {
         "name": "gatsby-starter-casper",
         "description": "GatsbyJS starter that themed with the Casper theme from Ghost.",
@@ -1747,6 +1747,10 @@
             "version": "^5.1.3"
           },
           {
+            "name": "react-scripts",
+            "version": "^1.1.4"
+          },
+          {
             "name": "react-scroll",
             "version": "^1.7.3"
           },
@@ -1836,7 +1840,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d340f59840a2ba03878e7cd515ad70b2",
+        "contentDigest": "b70750752e4907be4c1807bae9bfbaee",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1856,37 +1860,37 @@
       },
       "pathPrefix": "/blog",
       "polyfill": true,
-      "buildTime": "2018-02-17T08:01:28.910Z",
+      "buildTime": "2018-04-26T12:45:28.646Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "951e70823a1ac66ed445dcabc0a14a53",
+        "contentDigest": "d09fb929545e2097ea9a532e4de2af9a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/posts absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/posts absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7fb459b678381579ea5dd643d734cfe3",
+        "contentDigest": "617647848a01b06f5be1173bc2971042",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/posts",
       "relativePath": "",
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-02-17T02:27:28.823Z",
-      "accessTime": "2018-02-17T08:01:30.690Z",
-      "changeTime": "2018-02-17T02:27:28.823Z",
-      "birthTime": "2018-02-16T12:18:28.731Z",
+      "modifiedTime": "2018-04-26T12:21:02.801Z",
+      "accessTime": "2018-04-26T12:45:30.154Z",
+      "changeTime": "2018-04-26T12:21:02.801Z",
+      "birthTime": "2018-04-26T12:21:02.801Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content",
+      "dir": "/Users/hogyunkim/Desktop/blog/content",
       "base": "posts",
       "ext": "",
       "name": "posts",
@@ -1898,38 +1902,38 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301419109,
+      "ino": 4308293968,
       "blocks": 0,
-      "atimeMs": 1518854490689.8723,
-      "mtimeMs": 1518834448822.599,
-      "ctimeMs": 1518834448822.599,
-      "birthtimeMs": 1518783508730.6187,
-      "atime": "2018-02-17T08:01:30.690Z",
-      "mtime": "2018-02-17T02:27:28.823Z",
-      "ctime": "2018-02-17T02:27:28.823Z",
-      "birthtime": "2018-02-16T12:18:28.731Z"
+      "atimeMs": 1524746730154.2678,
+      "mtimeMs": 1524745262801.1982,
+      "ctimeMs": 1524745262801.1982,
+      "birthtimeMs": 1524745262801.149,
+      "atime": "2018-04-26T12:45:30.154Z",
+      "mtime": "2018-04-26T12:21:02.801Z",
+      "ctime": "2018-04-26T12:21:02.801Z",
+      "birthtime": "2018-04-26T12:21:02.801Z"
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018 absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018 absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018 absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018 absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "479ed44994184679a85b0836d8b849ab",
+        "contentDigest": "85692b3e001f15722ed5b8e79349241b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018",
       "relativePath": "02-17-2018",
       "extension": "",
       "size": 192,
       "prettySize": "192 B",
-      "modifiedTime": "2018-02-17T07:35:18.818Z",
-      "accessTime": "2018-02-17T08:01:30.691Z",
-      "changeTime": "2018-02-17T07:35:18.818Z",
-      "birthTime": "2018-02-16T17:14:27.808Z",
+      "modifiedTime": "2018-04-26T12:42:36.316Z",
+      "accessTime": "2018-04-26T12:45:30.157Z",
+      "changeTime": "2018-04-26T12:42:36.316Z",
+      "birthTime": "2018-04-26T12:21:02.801Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/posts",
       "base": "02-17-2018",
       "ext": "",
       "name": "02-17-2018",
@@ -1941,21 +1945,21 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301653926,
+      "ino": 4308293969,
       "blocks": 0,
-      "atimeMs": 1518854490691.4258,
-      "mtimeMs": 1518852918817.5542,
-      "ctimeMs": 1518852918817.5542,
-      "birthtimeMs": 1518801267807.6094,
-      "atime": "2018-02-17T08:01:30.691Z",
-      "mtime": "2018-02-17T07:35:18.818Z",
-      "ctime": "2018-02-17T07:35:18.818Z",
-      "birthtime": "2018-02-16T17:14:27.808Z"
+      "atimeMs": 1524746730156.5608,
+      "mtimeMs": 1524746556316.1128,
+      "ctimeMs": 1524746556316.1128,
+      "birthtimeMs": 1524745262801.1936,
+      "atime": "2018-04-26T12:45:30.157Z",
+      "mtime": "2018-04-26T12:42:36.316Z",
+      "ctime": "2018-04-26T12:42:36.316Z",
+      "birthtime": "2018-04-26T12:21:02.801Z"
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file",
       "children": [
-        "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file >>> MarkdownRemark"
+        "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1965,17 +1969,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md",
       "relativePath": "02-17-2018/index.md",
       "extension": "md",
       "size": 1463,
       "prettySize": "1.46 kB",
-      "modifiedTime": "2018-02-17T07:58:41.321Z",
-      "accessTime": "2018-02-17T07:58:41.361Z",
-      "changeTime": "2018-02-17T07:58:41.321Z",
-      "birthTime": "2018-02-16T17:14:32.544Z",
+      "modifiedTime": "2018-04-26T12:42:36.316Z",
+      "accessTime": "2018-04-26T12:44:38.185Z",
+      "changeTime": "2018-04-26T12:42:36.316Z",
+      "birthTime": "2018-04-26T12:42:36.316Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -1987,19 +1991,107 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301653929,
-      "blocks": 0,
-      "atimeMs": 1518854321361.3145,
-      "mtimeMs": 1518854321320.8633,
-      "ctimeMs": 1518854321320.8633,
-      "birthtimeMs": 1518801272543.9834,
-      "atime": "2018-02-17T07:58:41.361Z",
-      "mtime": "2018-02-17T07:58:41.321Z",
-      "ctime": "2018-02-17T07:58:41.321Z",
-      "birthtime": "2018-02-16T17:14:32.544Z"
+      "ino": 4308340482,
+      "blocks": 8,
+      "atimeMs": 1524746678184.8362,
+      "mtimeMs": 1524746556316.198,
+      "ctimeMs": 1524746556316.198,
+      "birthtimeMs": 1524746556316.1062,
+      "atime": "2018-04-26T12:44:38.185Z",
+      "mtime": "2018-04-26T12:42:36.316Z",
+      "ctime": "2018-04-26T12:42:36.316Z",
+      "birthtime": "2018-04-26T12:42:36.316Z"
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/rest-vs-graphql.png absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/rest-vs-graphql.png absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/data-fetch-graphql.png absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/data-fetch-graphql.png absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1a2d37d0ee687ac1dad9c844df9c48fa",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/data-fetch-graphql.png",
+      "relativePath": "02-17-2018/data-fetch-graphql.png",
+      "extension": "png",
+      "size": 79935,
+      "prettySize": "79.9 kB",
+      "modifiedTime": "2018-04-26T12:21:02.802Z",
+      "accessTime": "2018-04-26T12:43:18.934Z",
+      "changeTime": "2018-04-26T12:21:02.802Z",
+      "birthTime": "2018-04-26T12:21:02.801Z",
+      "root": "/",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018",
+      "base": "data-fetch-graphql.png",
+      "ext": ".png",
+      "name": "data-fetch-graphql",
+      "relativeDirectory": "02-17-2018",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4308293970,
+      "blocks": 160,
+      "atimeMs": 1524746598933.9595,
+      "mtimeMs": 1524745262801.7515,
+      "ctimeMs": 1524745262801.7515,
+      "birthtimeMs": 1524745262801.262,
+      "atime": "2018-04-26T12:43:18.934Z",
+      "mtime": "2018-04-26T12:21:02.802Z",
+      "ctime": "2018-04-26T12:21:02.802Z",
+      "birthtime": "2018-04-26T12:21:02.801Z"
+    },
+    "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/data-fetch-rest.png absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/data-fetch-rest.png absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cfb4db44aa0551eef80689d9a40f5b7c",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/data-fetch-rest.png",
+      "relativePath": "02-17-2018/data-fetch-rest.png",
+      "extension": "png",
+      "size": 107743,
+      "prettySize": "108 kB",
+      "modifiedTime": "2018-04-26T12:21:02.803Z",
+      "accessTime": "2018-04-26T12:43:18.934Z",
+      "changeTime": "2018-04-26T12:21:02.803Z",
+      "birthTime": "2018-04-26T12:21:02.802Z",
+      "root": "/",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018",
+      "base": "data-fetch-rest.png",
+      "ext": ".png",
+      "name": "data-fetch-rest",
+      "relativeDirectory": "02-17-2018",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4308293971,
+      "blocks": 216,
+      "atimeMs": 1524746598933.971,
+      "mtimeMs": 1524745262802.587,
+      "ctimeMs": 1524745262802.587,
+      "birthtimeMs": 1524745262801.8474,
+      "atime": "2018-04-26T12:43:18.934Z",
+      "mtime": "2018-04-26T12:21:02.803Z",
+      "ctime": "2018-04-26T12:21:02.803Z",
+      "birthtime": "2018-04-26T12:21:02.802Z"
+    },
+    "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/rest-vs-graphql.png absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/rest-vs-graphql.png absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -2009,17 +2101,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "posts",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/rest-vs-graphql.png",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/rest-vs-graphql.png",
       "relativePath": "02-17-2018/rest-vs-graphql.png",
       "extension": "png",
       "size": 297219,
       "prettySize": "297 kB",
-      "modifiedTime": "2018-02-17T02:32:37.006Z",
-      "accessTime": "2018-02-17T02:42:53.982Z",
-      "changeTime": "2018-02-17T02:32:50.297Z",
-      "birthTime": "2018-02-17T02:32:37.004Z",
+      "modifiedTime": "2018-04-26T12:21:02.804Z",
+      "accessTime": "2018-04-26T12:43:18.934Z",
+      "changeTime": "2018-04-26T12:21:02.804Z",
+      "birthTime": "2018-04-26T12:21:02.803Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018",
       "base": "rest-vs-graphql.png",
       "ext": ".png",
       "name": "rest-vs-graphql",
@@ -2031,21 +2123,21 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301661316,
+      "ino": 4308293973,
       "blocks": 584,
-      "atimeMs": 1518835373982.1323,
-      "mtimeMs": 1518834757006.1077,
-      "ctimeMs": 1518834770296.91,
-      "birthtimeMs": 1518834757004.2625,
-      "atime": "2018-02-17T02:42:53.982Z",
-      "mtime": "2018-02-17T02:32:37.006Z",
-      "ctime": "2018-02-17T02:32:50.297Z",
-      "birthtime": "2018-02-17T02:32:37.004Z"
+      "atimeMs": 1524746598933.9934,
+      "mtimeMs": 1524745262803.7915,
+      "ctimeMs": 1524745262803.7915,
+      "birthtimeMs": 1524745262802.8606,
+      "atime": "2018-04-26T12:43:18.934Z",
+      "mtime": "2018-04-26T12:21:02.804Z",
+      "ctime": "2018-04-26T12:21:02.804Z",
+      "birthtime": "2018-04-26T12:21:02.803Z"
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file >>> MarkdownRemark",
+    "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file",
+      "parent": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file",
       "internal": {
         "content": "---\ntitle: \"Rest API vs GraphQL\"\ncover: \"https://unsplash.it/1280/500/?random?BoldMage\"\nauthor: \"hogyun\"\ndate: \"02/17/2018\"\ncategory: \"tech\"\ntags:\n    - API\n---\n#### A new API standard: Why facebook created graphql?\n\n\n> ###### *Note:*\n\n- Basic understanding on RESTful API is required\n\n- This post summaries [following link](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/)\n\nIt's been a decade for using **RESTful API** to send data over HTTP with structured access resources in web application development industry. By using a 'stateless protocol', the **server** does not store any state of **client session** on server side. This allows to scale down thousands of concurrent users.  \n\nHowever, REST api has shown its shortcomings to catch up huge requirements of the clients which is mainly \"inefficiency of data fetching\".\n\n### Data Fetching Issue\n\nLets suppose the client wants the data of a **post** with the **writer's name** and its **followers**.\n\n> **RESTful API**\n\n![alt text](data-fetch-rest.png)\n\nThe picture shows the Rest api retrieves every information of client's request with multiple endpoints. When client throws GET method with resources, the server returns followed datas.\n\n> **GraphQL**\n\n![alt text](data-fetch-graphql.png)\n\nSince graph\"QL\" is Query Language, client throws specific query to server, clients receive matched datas from server. With this predefined query structure, graphql prevents over and underfetching.\n",
         "contentDigest": "dc52c4d1e15453413afbc57089ec4452",
@@ -2064,35 +2156,35 @@
         "tags": [
           "API"
         ],
-        "_PARENT": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file",
-        "parent": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file"
+        "_PARENT": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file",
+        "parent": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file"
       },
-      "fileAbsolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md",
+      "fileAbsolutePath": "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md",
       "fields": {
         "slug": "/rest-api-vs-graph-ql"
       }
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/sample-authors absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/sample-authors absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "829f8323cc60d677cba031cd1625f927",
+        "contentDigest": "528493497b3f9df4cafce5106defe826",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "authors",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/sample-authors",
       "relativePath": "",
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-02-16T11:43:45.154Z",
-      "accessTime": "2018-02-17T08:01:30.701Z",
-      "changeTime": "2018-02-16T15:33:31.976Z",
-      "birthTime": "2018-02-16T11:43:45.154Z",
+      "modifiedTime": "2018-04-26T12:21:02.804Z",
+      "accessTime": "2018-04-26T12:45:30.184Z",
+      "changeTime": "2018-04-26T12:21:02.804Z",
+      "birthTime": "2018-04-26T12:21:02.804Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content",
+      "dir": "/Users/hogyunkim/Desktop/blog/content",
       "base": "sample-authors",
       "ext": "",
       "name": "sample-authors",
@@ -2104,38 +2196,38 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301419127,
+      "ino": 4308293974,
       "blocks": 0,
-      "atimeMs": 1518854490701.2283,
-      "mtimeMs": 1518781425154.1292,
-      "ctimeMs": 1518795211976.0234,
-      "birthtimeMs": 1518781425154.0579,
-      "atime": "2018-02-17T08:01:30.701Z",
-      "mtime": "2018-02-16T11:43:45.154Z",
-      "ctime": "2018-02-16T15:33:31.976Z",
-      "birthtime": "2018-02-16T11:43:45.154Z"
+      "atimeMs": 1524746730184.4077,
+      "mtimeMs": 1524745262803.9302,
+      "ctimeMs": 1524745262803.9302,
+      "birthtimeMs": 1524745262803.875,
+      "atime": "2018-04-26T12:45:30.184Z",
+      "mtime": "2018-04-26T12:21:02.804Z",
+      "ctime": "2018-04-26T12:21:02.804Z",
+      "birthtime": "2018-04-26T12:21:02.804Z"
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3c419a7cc44108ce9eef75566f291314",
+        "contentDigest": "c4ecfd904a6ab48d38ff2f9589b77c9a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "authors",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors",
       "relativePath": "authors",
       "extension": "",
       "size": 160,
       "prettySize": "160 B",
-      "modifiedTime": "2018-02-16T12:23:20.514Z",
-      "accessTime": "2018-02-17T08:01:30.702Z",
-      "changeTime": "2018-02-16T15:33:31.976Z",
-      "birthTime": "2018-02-16T11:43:45.154Z",
+      "modifiedTime": "2018-04-26T12:21:02.804Z",
+      "accessTime": "2018-04-26T12:45:30.185Z",
+      "changeTime": "2018-04-26T12:21:02.804Z",
+      "birthTime": "2018-04-26T12:21:02.804Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/sample-authors",
       "base": "authors",
       "ext": "",
       "name": "authors",
@@ -2147,19 +2239,19 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301419128,
+      "ino": 4308293975,
       "blocks": 0,
-      "atimeMs": 1518854490701.7883,
-      "mtimeMs": 1518783800513.5352,
-      "ctimeMs": 1518795211975.9548,
-      "birthtimeMs": 1518781425154.1243,
-      "atime": "2018-02-17T08:01:30.702Z",
-      "mtime": "2018-02-16T12:23:20.514Z",
-      "ctime": "2018-02-16T15:33:31.976Z",
-      "birthtime": "2018-02-16T11:43:45.154Z"
+      "atimeMs": 1524746730185.1833,
+      "mtimeMs": 1524745262804.2534,
+      "ctimeMs": 1524745262804.2534,
+      "birthtimeMs": 1524745262803.9258,
+      "atime": "2018-04-26T12:45:30.185Z",
+      "mtime": "2018-04-26T12:21:02.804Z",
+      "ctime": "2018-04-26T12:21:02.804Z",
+      "birthtime": "2018-04-26T12:21:02.804Z"
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/casper.json absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/casper.json absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/casper.json absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/casper.json absPath of file",
       "children": [
         "casper"
       ],
@@ -2171,17 +2263,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "authors",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/casper.json",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/casper.json",
       "relativePath": "authors/casper.json",
       "extension": "json",
       "size": 557,
       "prettySize": "557 B",
-      "modifiedTime": "2018-02-16T11:43:45.154Z",
-      "accessTime": "2018-02-17T02:53:36.635Z",
-      "changeTime": "2018-02-16T15:33:31.975Z",
-      "birthTime": "2018-02-16T11:43:45.154Z",
+      "modifiedTime": "2018-04-26T12:21:02.804Z",
+      "accessTime": "2018-04-26T12:43:18.934Z",
+      "changeTime": "2018-04-26T12:21:02.804Z",
+      "birthTime": "2018-04-26T12:21:02.804Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors",
       "base": "casper.json",
       "ext": ".json",
       "name": "casper",
@@ -2193,19 +2285,19 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301419129,
+      "ino": 4308293976,
       "blocks": 8,
-      "atimeMs": 1518836016635.4783,
-      "mtimeMs": 1518781425154.2488,
-      "ctimeMs": 1518795211975.055,
-      "birthtimeMs": 1518781425154.1946,
-      "atime": "2018-02-17T02:53:36.635Z",
-      "mtime": "2018-02-16T11:43:45.154Z",
-      "ctime": "2018-02-16T15:33:31.975Z",
-      "birthtime": "2018-02-16T11:43:45.154Z"
+      "atimeMs": 1524746598934.0242,
+      "mtimeMs": 1524745262804.0393,
+      "ctimeMs": 1524745262804.0393,
+      "birthtimeMs": 1524745262803.9888,
+      "atime": "2018-04-26T12:43:18.934Z",
+      "mtime": "2018-04-26T12:21:02.804Z",
+      "ctime": "2018-04-26T12:21:02.804Z",
+      "birthtime": "2018-04-26T12:21:02.804Z"
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/guinevere.json absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/guinevere.json absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/guinevere.json absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/guinevere.json absPath of file",
       "children": [
         "guinevere"
       ],
@@ -2217,17 +2309,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "authors",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/guinevere.json",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/guinevere.json",
       "relativePath": "authors/guinevere.json",
       "extension": "json",
       "size": 401,
       "prettySize": "401 B",
-      "modifiedTime": "2018-02-16T11:43:45.154Z",
-      "accessTime": "2018-02-17T02:53:36.635Z",
-      "changeTime": "2018-02-16T15:33:31.976Z",
-      "birthTime": "2018-02-16T11:43:45.154Z",
+      "modifiedTime": "2018-04-26T12:21:02.804Z",
+      "accessTime": "2018-04-26T12:43:18.934Z",
+      "changeTime": "2018-04-26T12:21:02.804Z",
+      "birthTime": "2018-04-26T12:21:02.804Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors",
       "base": "guinevere.json",
       "ext": ".json",
       "name": "guinevere",
@@ -2239,19 +2331,19 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301419131,
+      "ino": 4308293977,
       "blocks": 8,
-      "atimeMs": 1518836016635.4856,
-      "mtimeMs": 1518781425154.3855,
-      "ctimeMs": 1518795211975.8958,
-      "birthtimeMs": 1518781425154.3364,
-      "atime": "2018-02-17T02:53:36.635Z",
-      "mtime": "2018-02-16T11:43:45.154Z",
-      "ctime": "2018-02-16T15:33:31.976Z",
-      "birthtime": "2018-02-16T11:43:45.154Z"
+      "atimeMs": 1524746598934.035,
+      "mtimeMs": 1524745262804.171,
+      "ctimeMs": 1524745262804.171,
+      "birthtimeMs": 1524745262804.1228,
+      "atime": "2018-04-26T12:43:18.934Z",
+      "mtime": "2018-04-26T12:21:02.804Z",
+      "ctime": "2018-04-26T12:21:02.804Z",
+      "birthtime": "2018-04-26T12:21:02.804Z"
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/hogyun.json absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/hogyun.json absPath of file",
+    "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/hogyun.json absPath of file": {
+      "id": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/hogyun.json absPath of file",
       "children": [
         "hogyun"
       ],
@@ -2263,17 +2355,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "authors",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/hogyun.json",
+      "absolutePath": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/hogyun.json",
       "relativePath": "authors/hogyun.json",
       "extension": "json",
       "size": 359,
       "prettySize": "359 B",
-      "modifiedTime": "2018-02-16T23:31:12.339Z",
-      "accessTime": "2018-02-17T02:53:36.635Z",
-      "changeTime": "2018-02-16T23:31:12.339Z",
-      "birthTime": "2018-02-16T12:23:20.514Z",
+      "modifiedTime": "2018-04-26T12:21:02.804Z",
+      "accessTime": "2018-04-26T12:43:18.934Z",
+      "changeTime": "2018-04-26T12:21:02.804Z",
+      "birthTime": "2018-04-26T12:21:02.804Z",
       "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors",
+      "dir": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors",
       "base": "hogyun.json",
       "ext": ".json",
       "name": "hogyun",
@@ -2285,16 +2377,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301419130,
+      "ino": 4308293978,
       "blocks": 8,
-      "atimeMs": 1518836016635.4949,
-      "mtimeMs": 1518823872339.2563,
-      "ctimeMs": 1518823872339.2563,
-      "birthtimeMs": 1518783800513.5183,
-      "atime": "2018-02-17T02:53:36.635Z",
-      "mtime": "2018-02-16T23:31:12.339Z",
-      "ctime": "2018-02-16T23:31:12.339Z",
-      "birthtime": "2018-02-16T12:23:20.514Z"
+      "atimeMs": 1524746598934.0432,
+      "mtimeMs": 1524745262804.2952,
+      "ctimeMs": 1524745262804.2952,
+      "birthtimeMs": 1524745262804.2485,
+      "atime": "2018-04-26T12:43:18.934Z",
+      "mtime": "2018-04-26T12:21:02.804Z",
+      "ctime": "2018-04-26T12:21:02.804Z",
+      "birthtime": "2018-04-26T12:21:02.804Z"
     },
     "casper": {
       "id": "casper",
@@ -2309,7 +2401,7 @@
         "mailto:gatsbyjs@example.com"
       ],
       "children": [],
-      "parent": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/casper.json absPath of file",
+      "parent": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/casper.json absPath of file",
       "internal": {
         "contentDigest": "bc3eb31be1fd0139a8614b78df19548c",
         "type": "AuthorsJson",
@@ -2324,7 +2416,7 @@
       "location": "Simpelveld, Groningen",
       "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam laoreet lorem nec ligula aliquet, porta blandit augue luctus. Vivamus ac quam diam. Sed vestibulum pharetra hendrerit.",
       "children": [],
-      "parent": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/guinevere.json absPath of file",
+      "parent": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/guinevere.json absPath of file",
       "internal": {
         "contentDigest": "0f30900a3bf62282b7bc895e3496a8f4",
         "type": "AuthorsJson",
@@ -2343,119 +2435,31 @@
         "mailto:hogyun3709@gmail.com"
       ],
       "children": [],
-      "parent": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/sample-authors/authors/hogyun.json absPath of file",
+      "parent": "/Users/hogyunkim/Desktop/blog/content/sample-authors/authors/hogyun.json absPath of file",
       "internal": {
         "contentDigest": "0cb4738daddc168787fa1461d513dfab",
         "type": "AuthorsJson",
         "owner": "gatsby-transformer-json"
       }
     },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/data-fetch-graphql.png absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/data-fetch-graphql.png absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "1a2d37d0ee687ac1dad9c844df9c48fa",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/data-fetch-graphql.png",
-      "relativePath": "02-17-2018/data-fetch-graphql.png",
-      "extension": "png",
-      "size": 79935,
-      "prettySize": "79.9 kB",
-      "modifiedTime": "2018-02-17T02:06:08.678Z",
-      "accessTime": "2018-02-17T07:34:59.240Z",
-      "changeTime": "2018-02-17T07:34:59.029Z",
-      "birthTime": "2018-02-17T02:06:08.667Z",
-      "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018",
-      "base": "data-fetch-graphql.png",
-      "ext": ".png",
-      "name": "data-fetch-graphql",
-      "relativeDirectory": "02-17-2018",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 4301659845,
-      "blocks": 160,
-      "atimeMs": 1518852899239.9282,
-      "mtimeMs": 1518833168677.8552,
-      "ctimeMs": 1518852899028.5684,
-      "birthtimeMs": 1518833168667.495,
-      "atime": "2018-02-17T07:34:59.240Z",
-      "mtime": "2018-02-17T02:06:08.678Z",
-      "ctime": "2018-02-17T07:34:59.029Z",
-      "birthtime": "2018-02-17T02:06:08.667Z"
-    },
-    "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/data-fetch-rest.png absPath of file": {
-      "id": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/data-fetch-rest.png absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "cfb4db44aa0551eef80689d9a40f5b7c",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/data-fetch-rest.png",
-      "relativePath": "02-17-2018/data-fetch-rest.png",
-      "extension": "png",
-      "size": 107743,
-      "prettySize": "108 kB",
-      "modifiedTime": "2018-02-17T01:46:10.388Z",
-      "accessTime": "2018-02-17T07:35:18.930Z",
-      "changeTime": "2018-02-17T07:35:18.818Z",
-      "birthTime": "2018-02-17T01:46:10.374Z",
-      "root": "/",
-      "dir": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018",
-      "base": "data-fetch-rest.png",
-      "ext": ".png",
-      "name": "data-fetch-rest",
-      "relativeDirectory": "02-17-2018",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 4301659239,
-      "blocks": 216,
-      "atimeMs": 1518852918929.7737,
-      "mtimeMs": 1518831970388.1768,
-      "ctimeMs": 1518852918817.554,
-      "birthtimeMs": 1518831970374.2744,
-      "atime": "2018-02-17T07:35:18.930Z",
-      "mtime": "2018-02-17T01:46:10.388Z",
-      "ctime": "2018-02-17T07:35:18.818Z",
-      "birthtime": "2018-02-17T01:46:10.374Z"
-    },
     "SitePage /offline-plugin-app-shell-fallback/": {
       "layout": "index",
       "jsonName": "offline-plugin-app-shell-fallback.json",
       "internalComponentName": "ComponentOfflinePluginAppShellFallback",
       "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "component": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-offline/app-shell.js",
       "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
       "context": {},
-      "updatedAt": 1518854491070,
+      "updatedAt": 1524746730667,
       "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
       "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentPath": "/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-offline/app-shell.js",
       "id": "SitePage /offline-plugin-app-shell-fallback/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c6d1e29c6682b4cafabfd40635aa75c2",
+        "contentDigest": "081d7b60ef57d4fb03d34f4c69ba3c60",
         "owner": "internal-data-bridge"
       }
     },
@@ -2464,7 +2468,7 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/index.jsx",
+      "component": "/Users/hogyunkim/Desktop/blog/src/templates/index.jsx",
       "componentChunkName": "component---src-templates-index-jsx",
       "context": {
         "nodes": [
@@ -2493,16 +2497,16 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1518854491099,
+      "updatedAt": 1524746730698,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/index.jsx",
+      "componentPath": "/Users/hogyunkim/Desktop/blog/src/templates/index.jsx",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f6511bfe19e9ab6b2e8e648f0511f7ba",
+        "contentDigest": "fcda2a78bb1fa59cdaa33007da3e9542",
         "owner": "internal-data-bridge"
       }
     },
@@ -2511,22 +2515,22 @@
       "jsonName": "rest-api-vs-graph-ql.json",
       "internalComponentName": "ComponentRestApiVsGraphQl",
       "path": "/rest-api-vs-graph-ql",
-      "component": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/post.jsx",
+      "component": "/Users/hogyunkim/Desktop/blog/src/templates/post.jsx",
       "componentChunkName": "component---src-templates-post-jsx",
       "context": {
         "slug": "/rest-api-vs-graph-ql",
         "total": 1
       },
-      "updatedAt": 1518854491100,
+      "updatedAt": 1524746730699,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/post.jsx",
+      "componentPath": "/Users/hogyunkim/Desktop/blog/src/templates/post.jsx",
       "id": "SitePage /rest-api-vs-graph-ql",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "727649334f01004158becc17f9dd5bf1",
+        "contentDigest": "80fc7382aa0ebf2358e2d5b1ff00efd0",
         "owner": "internal-data-bridge"
       }
     },
@@ -2535,7 +2539,7 @@
       "jsonName": "tags-api.json",
       "internalComponentName": "ComponentTagsApi",
       "path": "/tags/api/",
-      "component": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/tag.jsx",
+      "component": "/Users/hogyunkim/Desktop/blog/src/templates/tag.jsx",
       "componentChunkName": "component---src-templates-tag-jsx",
       "context": {
         "tag": "API",
@@ -2565,16 +2569,16 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1518854491100,
+      "updatedAt": 1524746730700,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/tag.jsx",
+      "componentPath": "/Users/hogyunkim/Desktop/blog/src/templates/tag.jsx",
       "id": "SitePage /tags/api/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "65cd9fb38b2fab769401416fce05a009",
+        "contentDigest": "16f08ebaa3f3d2244313cd4759c44a32",
         "owner": "internal-data-bridge"
       }
     },
@@ -2583,21 +2587,21 @@
       "jsonName": "categories-tech.json",
       "internalComponentName": "ComponentCategoriesTech",
       "path": "/categories/tech/",
-      "component": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/category.jsx",
+      "component": "/Users/hogyunkim/Desktop/blog/src/templates/category.jsx",
       "componentChunkName": "component---src-templates-category-jsx",
       "context": {
         "category": "tech"
       },
-      "updatedAt": 1518854491101,
+      "updatedAt": 1524746730700,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/category.jsx",
+      "componentPath": "/Users/hogyunkim/Desktop/blog/src/templates/category.jsx",
       "id": "SitePage /categories/tech/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3fe7d5ba09f2a46e6e30735590f8470e",
+        "contentDigest": "56406b4b9f98887b6347d97380091144",
         "owner": "internal-data-bridge"
       }
     },
@@ -2606,21 +2610,21 @@
       "jsonName": "author-hogyun.json",
       "internalComponentName": "ComponentAuthorHogyun",
       "path": "/author/hogyun/",
-      "component": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/author.jsx",
+      "component": "/Users/hogyunkim/Desktop/blog/src/templates/author.jsx",
       "componentChunkName": "component---src-templates-author-jsx",
       "context": {
         "author": "hogyun"
       },
-      "updatedAt": 1518854491101,
+      "updatedAt": 1524746730701,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/templates/author.jsx",
+      "componentPath": "/Users/hogyunkim/Desktop/blog/src/templates/author.jsx",
       "id": "SitePage /author/hogyun/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "47fc048fa5fa70ba40ce9da2230f1d90",
+        "contentDigest": "bd67e36597d2b46ccf6282457eb2004d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2629,30 +2633,30 @@
       "jsonName": "about.json",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/pages/about.jsx",
+      "component": "/Users/hogyunkim/Desktop/blog/src/pages/about.jsx",
       "componentChunkName": "component---src-pages-about-jsx",
       "context": {},
-      "updatedAt": 1518854491110,
+      "updatedAt": 1524746730709,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/src/pages/about.jsx",
+      "componentPath": "/Users/hogyunkim/Desktop/blog/src/pages/about.jsx",
       "id": "SitePage /about/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a8e5680762b9429e2af8ef2c5a9b2f50",
+        "contentDigest": "6c5af3801b84f4c80c2ff47ad7350b26",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "8842c6caf7d654b3d278fa2f2584029e"
+    "PLUGINS_HASH": "5a729476c982b88e633e73368b295c2d"
   },
   "componentDataDependencies": {
     "nodes": {
-      "/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/content/posts/02-17-2018/index.md absPath of file >>> MarkdownRemark": [
+      "/Users/hogyunkim/Desktop/blog/content/posts/02-17-2018/index.md absPath of file >>> MarkdownRemark": [
         "/rest-api-vs-graph-ql"
       ]
     },
@@ -2669,9 +2673,6 @@
         "/tags/api/",
         "/categories/tech/",
         "/author/hogyun/"
-      ],
-      "SitePage": [
-        "/dev-404-page/"
       ]
     }
   }

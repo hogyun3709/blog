@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Welcome to Hogyun's blog]]></title><description><![CDATA[Which covers modern web appilcation development issues.]]></description><link>https://hogyun3709.github.io/blog</link><image><url>https://hogyun3709.github.io/blog/logos/logo-512.png</url><title>Welcome to Hogyun&apos;s blog</title><link>https://hogyun3709.github.io/blog</link></image><generator>GatsbyJS Casper Starter</generator><lastBuildDate>Sat, 17 Feb 2018 08:01:49 GMT</lastBuildDate><atom:link href="https://hogyun3709.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Casper User]]></author><copyright><![CDATA[Gatsby Casper Starter © 2018]]></copyright><item><title><![CDATA[Rest API vs GraphQL]]></title><description><![CDATA[A new API standard: Why facebook created graphql? Note: Basic understanding on RESTful API is required This post summaries  following link…]]></description><link>https://hogyun3709.github.io/blog/rest-api-vs-graph-ql</link><guid isPermaLink="false">https://hogyun3709.github.io/blog/rest-api-vs-graph-ql</guid><category><![CDATA[API]]></category><dc:creator><![CDATA[Casper User]]></dc:creator><pubDate>Fri, 16 Feb 2018 15:00:00 GMT</pubDate><content:encoded>&lt;h4 id=&quot;a-new-api-standard-why-facebook-created-graphql&quot;&gt;&lt;a href=&quot;#a-new-api-standard-why-facebook-created-graphql&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;A new API standard: Why facebook created graphql?&lt;/h4&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Welcome to Hogyun's blog]]></title><description><![CDATA[Which covers modern web appilcation development issues.]]></description><link>https://hogyun3709.github.io/blog</link><image><url>https://hogyun3709.github.io/blog/logos/logo-512.png</url><title>Welcome to Hogyun&apos;s blog</title><link>https://hogyun3709.github.io/blog</link></image><generator>GatsbyJS Casper Starter</generator><lastBuildDate>Thu, 26 Apr 2018 12:45:49 GMT</lastBuildDate><atom:link href="https://hogyun3709.github.io/blog/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Casper User]]></author><copyright><![CDATA[Gatsby Casper Starter © 2018]]></copyright><item><title><![CDATA[Rest API vs GraphQL]]></title><description><![CDATA[A new API standard: Why facebook created graphql? Note: Basic understanding on RESTful API is required This post summaries  following link…]]></description><link>https://hogyun3709.github.io/blog/rest-api-vs-graph-ql</link><guid isPermaLink="false">https://hogyun3709.github.io/blog/rest-api-vs-graph-ql</guid><category><![CDATA[API]]></category><dc:creator><![CDATA[Casper User]]></dc:creator><pubDate>Fri, 16 Feb 2018 15:00:00 GMT</pubDate><content:encoded>&lt;h4 id=&quot;a-new-api-standard-why-facebook-created-graphql&quot;&gt;&lt;a href=&quot;#a-new-api-standard-why-facebook-created-graphql&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;A new API standard: Why facebook created graphql?&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;h6 id=&quot;note&quot;&gt;&lt;a href=&quot;#note&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;em&gt;Note:&lt;/em&gt;&lt;/h6&gt;
 &lt;/blockquote&gt;
@@ -20,7 +20,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-bb03f.png&quot;
+    href=&quot;/blog/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-bb03f.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -39,11 +39,11 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;alt text&quot;
         title=&quot;&quot;
-        src=&quot;/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-09ff3.png&quot;
-        srcset=&quot;/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-2279c.png 178w,
-/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-dbe09.png 355w,
-/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-09ff3.png 710w,
-/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-bb03f.png 900w&quot;
+        src=&quot;/blog/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-09ff3.png&quot;
+        srcset=&quot;/blog/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-2279c.png 178w,
+/blog/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-dbe09.png 355w,
+/blog/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-09ff3.png 710w,
+/blog/static/data-fetch-rest-cfb4db44aa0551eef80689d9a40f5b7c-bb03f.png 900w&quot;
         sizes=&quot;(max-width: 710px) 100vw, 710px&quot;
       /&gt;
     &lt;/span&gt;
@@ -58,7 +58,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-a1c6b.png&quot;
+    href=&quot;/blog/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-a1c6b.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -77,11 +77,11 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;alt text&quot;
         title=&quot;&quot;
-        src=&quot;/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-09ff3.png&quot;
-        srcset=&quot;/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-2279c.png 178w,
-/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-dbe09.png 355w,
-/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-09ff3.png 710w,
-/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-a1c6b.png 925w&quot;
+        src=&quot;/blog/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-09ff3.png&quot;
+        srcset=&quot;/blog/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-2279c.png 178w,
+/blog/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-dbe09.png 355w,
+/blog/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-09ff3.png 710w,
+/blog/static/data-fetch-graphql-1a2d37d0ee687ac1dad9c844df9c48fa-a1c6b.png 925w&quot;
         sizes=&quot;(max-width: 710px) 100vw, 710px&quot;
       /&gt;
     &lt;/span&gt;

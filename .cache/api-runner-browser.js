@@ -1,20 +1,20 @@
 var plugins = [{
-      plugin: require('/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-remark-autolink-headers/gatsby-browser.js'),
+      plugin: require('/Users/hogyunkim/Desktop/blog/node_modules/gatsby-remark-autolink-headers/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
+      plugin: require('/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
       options: {"plugins":[],"trackingId":"UA-111982167-1"},
     },{
-      plugin: require('/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-nprogress/gatsby-browser.js'),
+      plugin: require('/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-nprogress/gatsby-browser.js'),
       options: {"plugins":[],"color":"#c62828"},
     },{
-      plugin: require('/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      plugin: require('/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-twitter/gatsby-browser.js'),
+      plugin: require('/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-twitter/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/hogyunkim/Dropbox/workspace/blog-gatsby/blog/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
+      plugin: require('/Users/hogyunkim/Desktop/blog/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks
